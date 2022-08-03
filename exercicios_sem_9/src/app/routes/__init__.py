@@ -1,3 +1,4 @@
+from flask import Flask
 from src.app.controllers.technologies import technology
 
 def routes(app):
