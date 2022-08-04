@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "cpf": "09169327963",
+            "email": "ex@gmail.com",
+            "id": "123",
+            "nome": "Bruno Vinicius",
+            "senha": "123456"
+        }
+    ]
+}
